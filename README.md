@@ -19,5 +19,5 @@ Sistema de Pontuação: Acompanhe sua pontuação à medida que progride no jogo
 
 ###Créditos
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
-(-------------------------------------------------------------------------------------------)
+(__________________________________________________________________________________________)
 Divirta-se jogando o Game Detona RalphJS!!

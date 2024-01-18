@@ -1,0 +1,1 @@
+alert("Regras do Jogo: \n 1.Se clicar no quadrado sem o Ralph você perde uma Vida \n 2.Se perder todas as vidas encerra o Jogo antes do tempo \n 3.Toda vez que acabar o tempo ou perder todas das Vidas o jogo Renicia \n Clique em OK para iniciar ")
