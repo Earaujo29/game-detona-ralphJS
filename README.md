@@ -11,11 +11,13 @@ Funcionalidades Incríveis
 Sistema de Pontuação: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre, caso clique no quadrado errado ou se acabar o tempo é elimado uma vida. 
 
 ##Como Jogar
-Você precisa clicar no quadrado em que o Ralph aparece;
-Se clicar no quadrado sem o Ralph você perde uma Vida;
-O jogo encerra quando você perde todas as vidas;
-Cuidado com o Time Left.
-
+<ol>
+<li>Clone este repositório para sua máquina local.</li>
+<li>Abra o arquivo index.html em seu navegador web.</li>
+<li>Será avisado quais são as regras</li>
+</ol>
 
 ###Créditos
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+(-------------------------------------------------------------------------------------------)
+Divirta-se jogando o Game Detona RalphJS!!
